@@ -21,9 +21,11 @@ __2. WebView를 이용하여 식당 정보 페이지를 보여주도록 한다__
        * 피드의 게시글을 누르면 상세페이지로 넘어가 글을 자세히 볼 수 있다.
 
 
+<p align = "center">
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB2/assets/53979393/1f687ebe-0ee3-43dd-a3ac-3a09e7c9ba8d" width="200px" />
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB2/assets/53979393/adf423c4-0196-416d-ad9e-1899ae68a370" width="200px" />
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB2/assets/53979393/d15fc085-ab9e-45be-b4bc-5828b8c27071" width="200px" />
+</p>
 
 ## 사용자 시나리오
 1. 오늘 저녁 메뉴가 고민인 A씨. 맛있는게 먹고싶지만 딱히 떠오르는게 없어 맛맛 앱을 켠다.
